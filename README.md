@@ -13,4 +13,4 @@ The project is carried out in 7 steps:
 * Model validation&iteration
 * Discussion&Conclusions
 
-Code with results are viewable at the links: [[__Matrix Factorization__]](https://drive.google.com/drive/folders/1OUte57LMO2eoO2vJr5ngZcsGo5uNnt7_)  [[__Factorization Machine_]](https://drive.google.com/drive/folders/1OUte57LMO2eoO2vJr5ngZcsGo5uNnt7_)[[__Apriori Method_]](https://drive.google.com/drive/folders/1OUte57LMO2eoO2vJr5ngZcsGo5uNnt7_)
+Code with results are viewable at the links: [[Matrix Factorization]](https://drive.google.com/drive/folders/1OUte57LMO2eoO2vJr5ngZcsGo5uNnt7_)  [[Factorization Machine]](https://drive.google.com/drive/folders/1OUte57LMO2eoO2vJr5ngZcsGo5uNnt7_)[[Apriori Method]](https://drive.google.com/drive/folders/1OUte57LMO2eoO2vJr5ngZcsGo5uNnt7_)
